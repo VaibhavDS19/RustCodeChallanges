@@ -17,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/src/P1401-1500/P1464.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1401-1500/P1461-1470/P1464.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/P1401-1500/P1470.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1401-1500/P1461-1470/P1470.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/P1401-1500/P1480.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1401-1500/P1471-1480/P1480.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projects/Rust/Base/calculator" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1417.rs" value="true" />
     <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1431-1440/P1431.rs" value="true" />
@@ -95,9 +96,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601981684104">
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602222449262">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1601981684104" />
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1602222449262" />
   </component>
 </project>
